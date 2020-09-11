@@ -2,4 +2,4 @@
 Links to:
 
 - **Projet decription:** 
-- **Project scoping: **
+- **Project scoping:**
