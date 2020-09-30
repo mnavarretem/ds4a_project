@@ -10,8 +10,8 @@ def get_posts_url(page):
     with open(file_path, 'r') as json_file:
         posts = json.load(json_file)
         urls = [(post["post_id"], post["post_url"]) for post in posts]
-        logger.console(urls)
-        print(urls)
+        #logger.console(urls)
+        #print(urls)
     return urls
 
 def write_reactions_json(page, reactions_dict):
