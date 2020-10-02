@@ -58,10 +58,21 @@ Get Reactions
     [Arguments]  ${POST_ID}  ${URL}
     Go To  ${URL}
     #Log  ${URL}  console=yes
-    Wait Until Element Is Visible  ${comments_container}  10
-    ${COMMENTS_HTML} =  Get Element Attribute  ${comments_container}   innerHTML
+    ${PASSED}=  Run Keyword And Return Status   Wait Until Element Is Visible  ${comments_container}  10
+    ${COMMENTS_HTML} =  Run Keyword If     ${PASSED}   Get Element Attribute  ${comments_container}   innerHTML
+        ...     ELSE   Reload Page And Get HTML
+
+    #${COMMENTS_HTML} =  Get Element Attribute  ${comments_container}   innerHTML
     ${REACTIONS}=  Extract Reaction  ${COMMENTS_HTML}
+    Log  ${POST_ID}:${REACTIONS}  console=yes
     Set To Dictionary  ${REACTIONS_DICT}    ${POST_ID}   ${REACTIONS}
+
+Reload Page And Get HTML
+    Reload Page
+    ${PASSED}=  Run Keyword And Return Status   Wait Until Element Is Visible  ${comments_container}  10
+    ${COMMENTS_HTML} =  Run Keyword If     ${PASSED}   Get Element Attribute  ${comments_container}   innerHTML
+        ...     ELSE   Set Variable   EMPTY_TEXT
+    [Return]   ${COMMENTS_HTML}
 
 # To improve
 Get Post Comments
