@@ -104,14 +104,13 @@ def extract_reaction(html):
     reactions = ["Me gusta", "Me encanta", "Me enfada", "Me importa", "Me asombra", "Me divierte", "Me entristece"]
     reactions_dict = {}
     for reaction in reactions:
-        reaction_pattern = "aria-label(.*?){}".format(reaction)
-        reaction_match = re.compile(reaction_pattern).findall(html)
-
+        reaction_pattern = r"aria-label(.*?){}(.*?)\d+".format(reaction)
+        reaction_match = re.search(reaction_pattern, html)
         if reaction_match:
-            number_match = reaction_match[0].split('"')[-1].strip()
+            number_match = reaction_match.group().split()[-1].strip()
             reactions_dict[reaction] = number_match
         else:
             reactions_dict[reaction] = None
-
     # logger.console(reactions_dict)
     return reactions_dict
+

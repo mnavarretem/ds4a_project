@@ -14,6 +14,7 @@ saddens: xpath://form[contains(@class, "commentable_item")]//a[contains(@aria-la
 comments_link: xpath://form[contains(@class, "commentable_item")]//a[contains(text(),'comentarios')]
 relevant_comments: xpath://form[contains(@class, "commentable_item")]//a[contains(text(),'Más relevantes')]
 all_comments: xpath://li//a[span//div[contains(text(), "Todos los comentarios")]]
-comments_container: xpath://form[contains(@class, "commentable_item")]
+# comments_container: xpath://form[contains(@class, "commentable_item")]
 more_comments: xpath://span[contains(text(),'comentarios más')]
 comments: xpath://form[contains(@class, "commentable_item")]//div[contains(@data-ft,'{"tn":"K"}')]
+comments_container: xpath:(//span[contains(@aria-label, "Consulta quién reaccionó")])[1]
