@@ -66,7 +66,7 @@ def loading_data(filename, basepath, extension):
 # we will use it in our context to create some visualizations.
 def get_top_n_words(corpus, n=1,k=1):
     stopWords_ls = stopwords.words("spanish")
-    vec = CountVectorizer(ngram_range=(k,k),stop_words = stopWords_ls).fit(corpus)
+    vec = CountVectorizer(ngram_range=(k,k),stop_words = stopWords_ls).fit(corpus.values.astype('U'))
     bag_of_words = vec.transform(corpus)
     sum_words = bag_of_words.sum(axis=0) 
     words_freq = [(word, sum_words[0, idx]) for word, idx in vec.vocabulary_.items()]
