@@ -1,417 +1,466 @@
 ,0
-8102,volcánico
-8103,"staccato, desconectado,"
-8104,"desconectado, abrupto,"
-8105,"""nopreparado """
-8106,"sin realizar,"
-8107,estándar
-8108,"definitivo, clásico, clásico, autoritario,"
-8109,"canónico, canónico, básico,"
-8110,No estándar
-8111,estándar
-8112,Modular
-8113,regular
-8114,reglamento
-8115,"estandarizado, estandarizado,"
-8116,No estándar
-8117,"deficiente, inferior, deficiente,"
-8118,"no normativo,"
-8119,"estándar, recibido,"
-8120,aceptables.
-8121,origen clásico (calificador)
-8122,No estándar
-8123,mal
-8124,"inaceptable, inaceptable,"
-8125,"almidón, farináceo, amiloide, amiloide, amiláceo,"
-8126,sin almidón
-8127,estrellado
-8128,como un cometa
-8129,con gas
-8130,como una estrella
-8131,sin estrellas
-8132,nutrivia
-8133,"repleto, lleno,"
-8134,Subnutrición
-8135,sin comida
-8136,"desnutridos, desnutridos, mal alimentados,"
-8137,"hambrientos, hambrientos,"
-8138,sin alimentar
-8139,desnutrido
-8140,constante
-8141,"constante, estable, confiable,"
-8142,"regular, incluso,"
-8143,"firmes,"
-8144,"inquebrantable, nivel,"
-8145,estabilizado
-8146,seguro
-8147,"pisada segura, pisada segura, pisada,"
-8148,oscilante
-8149,"espasmódico, jerking, arrítmico,"
-8150,"espástica, espasmódica, convulsiva,"
-8151,"parpadeante, parpadeante,"
-8152,fluctuando
-8153,"temblando, temblando, tembloroso,"
-8154,"tembloroso, tembloroso,"
-8155,estremecimiento
-8156,"tambaleándose, tambaleándose,"
-8157,desnivelado
-8158,tambaleándose
-8159,sin tallo
-8160,estimulante de la
-8161,"estimulante, desafiante,"
-8162,emocionante
-8163,"salado, picante,"
-8164,"revolviendo, despertando,"
-8165,emocionante
-8166,"poco estimulante, poco emocionante,"
-8167,"plano, soso,"
-8168,"sin jugo, seco,"
-8169,insulso
-8170,Depresor
-8171,"tranquilizantes, tranquilizantes, tranquilizantes, tranquilizantes, sedantes, atáxicos, atácticos,"
-8172,"narcotizar, narcotizar, narcótico,"
-8173,relajante
-8174,"soporífero, soporífero, somnífero, somnífero, hipnogógico, hipnagógico,"
-8175,estimulativa.
-8176,"adrenocorticotrópico, adrenocorticotrófico,"
-8177,"excitante, excitante, excitante,"
-8178,"irritante, irritante,"
-8179,"estimulante, estimulante,"
-8180,"sin boca, astomatoso,"
-8181,liso
-8182,"sin doblar,"
-8183,destorcido
-8184,curvo
-8185,"tortuoso,"
-8186,"retorcido, retorcido, retorcido,"
-8187,"refractivo, deflectivo,"
-8188,"nudoso, nudoso, nudoso, nudoso, nudoso,"
-8189,malpuesto
-8190,"sinuoso, voluminoso, retorcido, retorcido, tortuoso,"
-8191,liso
-8192,"curvo, curvado,"
-8193,"arqueado, arqueado, arqueado, arqueado, arqueado, arqueado,"
-8194,"curvilíneo, curvilíneo,"
-8195,flexible
-8196,"en forma de gancho, enganchado,"
-8197,espirales
-8198,"enrevesado, enrevesado,"
-8199,Evolvente
-8200,"enrollado, involuta,"
-8201,"desenrollado, recto,"
-8202,desenrollado
-8203,"recto, cuadrado,"
-8204,"sencillo, directo,"
-8205,"transparente, inocente,"
-8206,"flecha recta,"
-8207,"torcido, corrupto,"
-8208,"solapada, solapada, furtiva,"
-8209,"enfático, enfatizado, enfatizado,"
-8210,no trabajando
-8211,"débil, sin acento, ligero,"
-8212,poco enfático
-8213,segura
-8214,derribo
-8215,"reforzado,"
-8216,"vigoroso, poderoso, musculoso, fuerte, musculoso,"
-8217,buey
-8218,"severo, nocaut, duro,"
-8219,"grado de armamento, fuerza industrial,"
-8220,como el hierro
-8221,"poderoso, derribo,"
-8222,notable
-8223,robusto
-8224,rígido
-8225,violento
-8226,masculino
-8227,"bien asentado, bien unido,"
-8228,débil
-8229,"anémica, anémica,"
-8230,"enervado, debilitado, asténico, adinámico,"
-8231,"débil, débil"
-8232,"cojo, débil,"
-8233,"endeble,"
-8234,de mala calidad
-8235,"indeciso, sin espinas, namby-pamby, sin agallas,"
-8236,"pálido, enfermo, pálido, pálido,"
-8237,Escuchimizado
-8238,vulnerable
-8239,"no regenerado, terco, obstinado,"
-8240,"cascarrabias, sanguinario,"
-8241,"estridente, bolshy,"
-8242,"testarudo, cabezota, cabeza de bala,"
-8243,"inflexible, tenaz, pertinaz, persistente, severo, obstinado,"
-8244,"de grano cruzado, contradictorio,"
-8245,decidido
-8246,"terco, testarudo,"
-8247,"rígido,"
-8248,dócil
-8249,"manso, manso,"
-8250,"como oveja, avergonzado,"
-8251,fluencia
-8252,subordinado
-8253,Vasallo
-8254,subordinado
-8255,insubordinado
-8256,"contumaz,"
-8257,"rebelde, desobediente,"
-8258,rebelde
-8259,a. exitosa
-8260,"boffo,"
-8261,"próspera, rugiente, próspera, próspera, palmera, floreciente, floreciente,"
-8262,hecho
-8263,productivo
-8264,Autogenerado
-8265,"seguro,"
-8266,CORONA DE TRES PARTES.
-8267,CORONA DE TRES PARTES.
-8268,"ganando, victorioso,"
-8269,fallida
-8270,Lo intenté.
-8271,"frustrado, frustrado, frustrado, desconcertado, decepcionado, derrotado,"
-8272,"lavado, deshecho, hundido, arruinado, hecho para,"
-8273,Sin hogar
-8274,"sin recompensa, con las manos vacías,"
-8275,sin golpes
-8276,"sin goles, sin goles, sin goles,"
-8277,"contraproducente,"
-8278,"no realizado, no realizado, incumplido,"
-8279,"despuesto,"
-8280,sin ganar
-8281,suficiente
-8282,"suficiente, decente, adecuado,"
-8283,es cómodo
-8284,"insuficiente, deficiente,"
-8285,"bajo, agotado,"
-8286,"corto, pobre, inadecuado,"
-8287,"escaso, magro,"
-8288,"corto, escaso, ligero,"
-8289,"recubiertos de azúcar, confitados,"
-8290,como miel
-8291,"sin azúcar, no dulce,"
-8292,Té  sin
-8293,sin edulcorantes
-8294,encima
-8295,"condescendiente, condescendiente, condescendiente, arco,"
-8296,"alto, eminente,"
-8297,"preeminente, líder,"
-8298,"nivel superior, rango alto, nivel alto,"
-8299,"olímpico, majestuoso,"
-8300,superordenado
-8301,"<g id=""Bold""><g id=""Underline""><g id=""Italic"">superior</g></g></g>"
-8302,Inferior
-8303,"pequeño, modesto, humilde, bajo, humilde,"
-8304,indiferente
-8305,de bajo nivel
-8306,Nivel medio
-8307,"superado,"
-8308,encima
-8309,"tops, topnotch, top-notch, tiptop, super, first-rate, crack, as, a-one,"
-8310,banderas
-8311,"jactarse, jefe,"
-8312,"soberbio, brillante,"
-8313,"seleccionar, calidad, premio, prima, elección,"
-8314,"espléndido, de primera clase, fantástico, excelente,"
-8315,dorado en los cortes
-8316,"superlativo, esterlina, más grande,"
-8317,de alto rendimiento
-8318,pendientes
-8319,Total
-8320,"pukka, pucka,"
-8321,brillante
-8322,spiffing
-8323,supremo
-8324,"topping, hoyo superior, vuelo superior,"
-8325,"trascendente, superando,"
-8326,"grado de armas,"
-8327,"bien hecho,"
-8328,Inferior
-8329,mal
-8330,Base
-8331,"metálico, sórdido, punk, de mala muerte, tacaño, cursi, barato, vagabundo,"
-8332,"bush-league, arbusto,"
-8333,"de mal gusto, de mala calidad, barato,"
-8334,"común, tosco,"
-8335,"embrutecido,"
-8336,"de calidad comercial, comercial,"
-8337,"miserable, lamentable, miserable, execrable, deplorable,"
-8338,menos grande
-8339,"de bajo grado,"
-8340,"de segunda, mediocre,"
-8341,"viscosa, nerviosa,"
-8342,"atrofiado, matorral, escuálido,"
-8343,segunda clase
-8344,"de tercera,"
-8345,"grado de utilidad, utilidad,"
-8346,abajo
-8347,sin supervisión.
-8348,reposo
-8349,"pendiente, pendiente, dependiente,"
-8350,sin fundamento
-8351,sin corsé
-8352,apoyados
-8353,sin fundamento
-8354,"salvaje, injustificado, infundado, inactivo, sin fundamento, sin fundamento,"
-8355,"sin respaldo, sin ayuda, con una sola mano,"
-8356,"asistido por energía,"
-8357,sin ayuda
-8358,Desnudo
-8359,sin ayuda
-8360,apoyo
-8361,"accesorio, accesorio,"
-8362,certificatorio
-8363,"demostrativo de,"
-8364,Insolidario
-8365,"contradictorio, confuso,"
-8366,"invalidando, desconfirmando,"
-8367,"superable,"
-8368,"superable, conquistable,"
-8369,"insuperable, insuperable,"
-8370,"inconquistable, insuperable,"
-8371,sorprendido
-8372,"aturdido, asombrado, asombrado, asombrado, asombrado,"
-8373,"atónito, estupefacto, estupefacto, estupefacto, estupefacto, estupefacto, estupefacto,"
-8374,"atónito,"
-8375,"absorto, boquiabierto, ojos saltones,"
-8376,"sacudido,"
-8377,sobrecogido
-8378,"no sorprendido, no sorprendido,"
-8379,sorprendente
-8380,"asombroso, asombroso,"
-8381,sorprendente
-8382,aturdimiento
-8383,nada sorprendente
-8384,predispuesto
-8385,"supersensibilizado, supersensible, supersensibilizado, sensibilizado, sensibilizado, hipersensibilizado, hipersensible, hipersensibilizado, alérgico,"
-8386,dócil
-8387,"sujeto, abierto, capaz,"
-8388,"suasible, persuasible, persuadible, convincente,"
-8389,"maleable, fictil,"
-8390,"no resistente, no resistente, no inmune, responsable,"
-8391,"predispuesto,"
-8392,"dócil, dócil,"
-8393,sugerible
-8394,tentador
-8395,No vacunado
-8396,vulnerable
-8397,"insusceptible, insusceptible,"
-8398,"resistente, inmune,"
-8399,"vacunados, inmunizados, inmunizados,"
-8400,No son capaces
-8401,"insuasible, imposible de persuadir,"
-8402,sin respuesta
-8403,"ceroso, impresionable, impresible,"
-8404,fácil&#x0D;
-8405,girable
-8406,predispuesto
-8407,Impresionante
-8408,exempt
-8409,inmunitario
-8410,privilegiado
-8411,Los No Exentos
-8412,responsable
-8413,"contribuyendo,"
-8414,Injustificada
-8415,mantenimiento
-8416,No programadas
-8417,seco
-8418,bruto
-8419,"treacly, almibarado, sacarina, empalagoso,"
-8420,manita
-8421,agria
-8422,"astringente, áspero, áspero,"
-8423,"vinagre, vinagre, acetosa, acetosa,"
-8424,"acidulado, acidulante, ácido, ácido,"
-8425,"agrio, ácido, amargo, alimonado, parecido al limón,"
-8426,subácido
-8427,agriado
-8428,"convertido, amargo, apagado,"
-8429,sin verter
-8430,"sin fermentar, dulce, fresco,"
-8431,un problema.
-8432,insospechado
-8433,desconocido
-8434,Barrido
-8435,sin barrer
-8436,Jurada
-8437,sin jurar
-8438,▓Biradial
-8439,"regular, incluso,"
-8440,"trigonal, romboédrico,"
-8441,"asimétrico, asimétrico,"
-8442,"no intercambiable,"
-8443,"asimétrico, asimétrico,"
-8444,compasivo
-8445,"compasivo,"
-8446,"empático, empático,"
-8447,incompasivo
-8448,"no simpatizante, indiferente,"
-8449,"simpático, simpático, simpático, atractivo,"
-8450,"antipático, desagradable, desagradable, desagradable,"
-8451,asíncrono
-8452,"no sincronizado, no sincronizado, no sincronizado, no sincronizado,"
-8453,desunido
-8454,similar
-8455,sustituible
-8456,complementario
-8457,opuesto
-8458,contrario
-8459,sistemático
-8460,"no sistemático,"
-8461,taciturno
-8462,"Abotonado,"
-8463,Fluidez
-8464,"hablador, hablador, locuaz, locuaz, gabby, hablador,"
-8465,diplomático
-8466,"discreto, exigente,"
-8467,"sin tacto, sin tacto,"
-8468,alto
-8469,altura
-8470,"piernas largas, piernas largas, piernas largas,"
-8471,"de alto crecimiento, piernas largas,"
-8472,larga
-8473,"escultural, majestuoso,"
-8474,"más o menos alto,"
-8475,"corto, pequeño,"
-8476,"aserrado, aserrado, enano, del tamaño de una pinta, del tamaño de una pinta,"
-8477,"roto, roto,"
-8478,cultivado
-8479,"gentil, dócil,"
-8480,"domesticado, doméstico,"
-8481,domado
-8482,"salvaje, indómito,"
-8483,"salvaje, ferina, salvaje,"
-8484,"semi-salvaje,"
-8485,irrompible
-8486,"no domesticado,"
-8487,manso
-8488,Wild
-8489,"desordenado, caótico,"
-8490,"desenfrenado, loco, frenético, emocionado, delirante,"
-8491,"maníaco, frenético,"
-8492,"palpable, tangible,"
-8493,"táctil, táctil,"
-8494,"intangible, impalpable,"
-8495,Realizable
-8496,intangible
-8497,"de buen gusto,"
-8498,"estético, artístico, estético,"
-8499,"sin pretensiones, sin ostentación, discreto,"
-8500,insípido
-8501,bárbaro
-8502,"de mala calidad, de mal gusto, cutre, de mal gusto, meretricious, ruidoso, gimcrack, chillón, chillón, llamativo, flash, barato, descarado,"
-8503,"brummagem,"
-8504,"campy, campamento,"
-8505,"descolorido, descolorido, poco delicado,"
-8506,"pretencioso, ostentoso,"
-8507,sabroso
-8508,"de sabor amargo, de sabor ácido,"
-8509,"nectaria, ambrosiana, ambrosiana,"
-8510,amarga
-8511,"de sabor fuerte, amargo,"
-8512,"semidulce, agridulce,"
-8513,y auto'determinación
-8514,quisquilloso
-8515,"delicioso, sabroso, delicioso, de sabor agradable, delicioso, delicioso, delicioso,"
-8516,"sabrosa, sabrosa, sabrosa, sabrosa, sabrosa, sabrosa, sabrosa, sabrosa,"
-8517,frutado
+8518,"robusto, rico, picante, con cuerpo,"
+8519,picante
+8520,con sabor a jengibre
+8521,"grapy, uva,"
+8522,"ágil,"
+8523,"nuez, como nuez,"
+8524,"picante, picante, sabroso, sabroso, picante,"
+8525,"picante, acre,"
+8526,salada
+8527,مه آلود
+8528,agria
+8529,"de sabor fuerte,"
+8530,"winy, winey,"
+8531,insípido
+8532,"Insípido, insípido, insípido, insípido, insípido, insípido, plano, insípido,"
+8533,"sin sabor, sin sabor, sin sabor, sin sabor,"
+8534,"sin condimentar, sin sal,"
+8535,Evaluable
+8536,"no tributable, exento,"
+8537,libre de impuestos
+8538,templado
+8539,"ligero, abstemio,"
+8540,"sobrio, moderado,"
+8541,inmoderado
+8542,"pesado, grande,"
+8543,templado
+8544,templado frío
+8545,"ecuánime,"
+8546,inmoderado
+8547,laxo
+8548,"flacidez, caída, caída,"
+8549,limp
+8550,"flojo, suelto,"
+8551,articulaciones sueltas
+8552,"sin tensión,"
+8553,"suspenso, suspenso, morderse las uñas, colgar del acantilado,"
+8554,tenso
+8555,"picazón, inquietud, inquietud, ansiedad,"
+8556,NERVIOSISMO
+8557,Desgarre muscular
+8558,"no relajado,"
+8559,"cableado, bombeado, bombeado, bombeado,"
+8560,relajado
+8561,"degage,"
+8562,"suave, relajado,"
+8563,"sin esfuerzo,"
+8564,hipotónico
+8565,territorial
+8566,"no territorial,"
+8567,cuatro capas
+8568,irregularidades de aserrado
+8569,tres capas
+8570,malla y contramalla
+8571,"plano, comprimido,"
+8572,deprimido
+8573,"filiforme, filiforme, filamentoso, filiforme,"
+8574,conclusión
+8575,Iluminado
+8576,Transición hiperfina
+8577,"como el papel,"
+8578,"ribbony, como una cinta,"
+8579,Duda
+8580,fino como una oblea
+8581,coagulable
+8582,"viscoso, almibarado,"
+8583,delgado
+8584,"enrarecido, enrarecido, raro,"
+8585,"que puede pensar,"
+8586,"imaginable, concebible,"
+8587,"presumible, presumible, presumible,"
+8588,inconcebible
+8589,"inimaginable, fuera de discusión, inconcebible, imposible,"
+8590,"Entonces, sin comprenderlo,"
+8591,"preocupado, perdido, absorto en sus pensamientos, desconcertado,"
+8592,"reflexivo, reflexivo, meditabundo, pensativo, meditativo, contemplativo, melancólico, melancólico,"
+8593,"de meditación,"
+8594,Bien pensado.
+8595,deliberativo
+8596,excogitativo
+8597,Irreflexivo
+8598,"desconsiderado, desconsiderado,"
+8599,"irreflexivo, irreflexivo, irreflexivo,"
+8600,económico
+8601,"escatimar, ahorrador, escocés, frugal, económico,"
+8602,centavo
+8603,guardar
+8604,malgastador
+8605,"derrochador, derrochador, pródigo, extravagante,"
+8606,de lo barato sale caro
+8607,"antieconómico, antieconómico,"
+8608,ordenado
+8609,"recorte, trigonometría, corte limpio,"
+8610,"ordenado, ordenado,"
+8611,bárbaro
+8612,"ruly,"
+8613,"bien cuidado, recortado, forma de barco,"
+8614,"pulido,"
+8615,liso
+8616,"despejado, despejado,"
+8617,descuidado
+8618,"desordenado, desordenado,"
+8619,"despeinado, arrugado, fruncido, despeinado, despeinado,"
+8620,"revuelto, revuelto, abrazador-asaltante, desordenado, desordenado,"
+8621,"desaliñado, malhumorado, malhumorado,"
+8622,"desordenado, desordenado,"
+8623,"ralo,"
+8624,enlodado
+8625,holgazán
+8626,"desordenado, desordenado, extendido, divagando,"
+8627,desaliñado
+8628,Preparada
+8629,cepillado
+8630,"ordenado, cuidado,"
+8631,pomada
+8632,filanta
+8633,Bien arreglada
+8634,"bien arreglado, bien vestido,"
+8635,Desmejorado
+8636,"peludo, peludo, peludo, tupido,"
+8637,mal vestido
+8638,sin cepillar
+8639,Peinado
+8640,incombustible
+8641,desaliñado
+8642,"estructura de madera,"
+8643,"sin madera,"
+8644,Matizado
+8645,"sin tono,"
+8646,lengua
+8647,sin lengua
+8648,Volcado
+8649,"punta rosada,"
+8650,punta de penacho
+8651,"con punta de espina,"
+8652,"con punta de espina,"
+8653,punta amarilla
+8654,sin propinas
+8655,"estaba cansado,"
+8656,"cansado, cansado,"
+8657,"desgastado, raddled, demacrado, dibujado, preocupado,"
+8658,"flaqueando, cayendo,"
+8659,"Agotado, agotado, deslavado, agotado, agotado, fatigado, agotado, agotado, cansado de perro,"
+8660,dolor de pies
+8661,"cansado, hastiado,"
+8662,"agotado,"
+8663,reposado
+8664,"revitalizado, refrescado, vigorizado, fresco,"
+8665,"incansable, incansable, incansable,"
+8666,AceptableThe quality of music
+8667,"soportable, soportable, soportable, soportable,"
+8668,"tolerante, resistente,"
+8669,"insoportable, insoportable, intolerable,"
+8670,amarga
+8671,"insufrible, inaceptable, insufrible, imposible,"
+8672,"no soportable,"
+8673,tolerancia
+8674,unbigoted
+8675,Intolerante
+8676,intolerante
+8677,"estricto, rígido,"
+8678,Matizado
+8679,"sin clave, atonal,"
+8680,"dentado,"
+8681,como un diente
+8682,dentudo
+8683,sin dientes
+8684,Boca Desdentada
+8685,coronamiento
+8686,"<g id=""Bold""><g id=""Underline""><g id=""Italic"">superior</g></g></g>"
+8687,"más abajo, más abajo, más abajo,"
+8688,Inferior
+8689,bajo
+8690,transversal
+8691,"de lado, lateral,"
+8692,topless
+8693,fondo
+8694,"de fondo redondo, de fondo redondo,"
+8695,descendente
+8696,ascendente
+8697,ecuatorial
+8698,Sucesión intestada
+8699,ab intestato
+8700,intacto
+8701,dura
+8702,"gomoso, cartilaginoso, cartilaginoso,"
+8703,correosa
+8704,"incontrolable, fibroso, vigoroso, fibroso,"
+8705,enternecida
+8706,"cortable, masticable,"
+8707,"escamoso, escamoso,"
+8708,"endurecido, duro,"
+8709,"engrosado, calloso, insensible,"
+8710,"endurecido, endurecido, endurecido,"
+8711,"curtido por el clima,"
+8712,"sin tocar, tierno,"
+8713,"suave, delicado,"
+8714,dura
+8715,"belicoso, duro, duro,"
+8716,"poco sentimental, de mente dura,"
+8717,enternecida
+8718,protector
+8719,Sentimental
+8720,"tóxicos,"
+8721,"cianogénico, cianogenético,"
+8722,"virulento, venenoso, mortal,"
+8723,hepatotóxico
+8724,nefrotóxicos
+8725,"tóxico, venenoso,"
+8726,"no tóxico, atóxico,"
+8727,"antitóxico,"
+8728,"no venenoso, no venenoso,"
+8729,"no venenosa,"
+8730,"tratable, manipulable,"
+8731,"maleable, dúctil,"
+8732,"enseñable, dócil,"
+8733,"domesticable, domesticable,"
+8734,intratable
+8735,reacio
+8736,"terco, refractario,"
+8737,"incontrolable, incontrolable,"
+8738,inconcebible
+8739,"rastreable, rastreable,"
+8740,Untraceable
+8741,"sin viajar, sin viajar,"
+8742,"no atravesado,"
+8743,"recortado, cortado,"
+8744,Cortado
+8745,"sin recortar, sin cortar,"
+8746,Desabrochado
+8747,afligido
+8748,"molesto, molestado, acosado, acosado, molesto,"
+8749,"inquieto, intranquilo, mareado, nervioso, ansioso,"
+8750,"tempest-tost, tempest-tost, tempest-barrida, tormenta-sacudida, azotado,"
+8751,cuidadoso
+8752,"cargados, cargados de cuidados,"
+8753,Turbia
+8754,"preocupado, molesto, perturbado, angustiado, inquieto,"
+8755,"de mala manera, en apuros, en apuros, angustiados,"
+8756,Tenso
+8757,"atormentado, abrumado, abrumado,"
+8758,embrujada
+8759,"mothy,"
+8760,"estresado, angustiado,"
+8761,luchando
+8762,sufrimiento
+8763,"turbulento,"
+8764,tranquilo
+8765,"despreocupado, despreocupado,"
+8766,deshacer
+8767,sin sueños
+8768,libre de problemas
+8769,indiferente
+8770,inalterado
+8771,"sin ser molestado,"
+8772,verdadero
+8773,"real, literal, genuino, actual,"
+8774,"apodíctico, apodeíctico,"
+8775,veraz
+8776,seguro
+8777,falso
+8778,mendaz
+8779,"espurio, engañoso,"
+8780,"inventados,"
+8781,Untrue
+8782,"confiado, confiado,"
+8783,confiar
+8784,"desprevenido, desprevenido,"
+8785,desconfiado
+8786,"misántropo, misántropo, cínico,"
+8787,"escéptico, escéptico, cuestionando, dudando,"
+8788,"demasiado celoso, celoso, de ojos verdes,"
+8789,"cauteloso, desconfiado, desconfiado, desconfiado, receloso,"
+8790,demasiado sospechoso
+8791,"confiable, digno de confianza,"
+8792,"confiable, auténtico,"
+8793,"responsable, solvente,"
+8794,"verdadero, confiable, honesto, confiable,"
+8795,"fiducial,"
+8796,"confiable, seguro,"
+8797,"desconfiado, indigno de confianza,"
+8798,"furtivo, tortuoso,"
+8799,"complicado, resbaladizo,"
+8800,Neumático Run Flat
+8801,desabrochado
+8802,Unturned
+8803,típico
+8804,"típico, ejemplar, emblemático,"
+8805,"verdadero, regular,"
+8806,verdadero
+8807,"atípico, atípico,"
+8808,"no representativo,"
+8809,"sumergible, sumergible,"
+8810,"no sumergible, no sumergible,"
+8811,Llanto
+8812,"natación, líquido,"
+8813,"ojos llorosos, ojos llorosos, llorosos,"
+8814,"resoplando, resoplando, olfateando,"
+8815,Llanto
+8816,"sin lágrimas, ojos secos,"
+8817,seco
+8818,cerrado
+8819,Ausencia de unión
+8820,"desorganizado, desorganizado, no sindicalizado, no sindicalizado,"
+8821,uníparas
+8822,multípara
+8823,"hermanamiento, bíparo,"
+8824,bipolar
+8825,Jano
+8826,Relator
+8827,"coalescente, coalescente,"
+8828,cohesivo
+8829,amarrado
+8830,indiviso
+8831,"no particionado,"
+8832,bífido
+8833,"de dientes, puntiagudos,"
+8834,desgarrado
+8835,trífido
+8836,de dos puntas
+8837,"bivalvo, bivalvo,"
+8838,"ascendente, ascendente, ascendente,"
+8839,"cayendo, cayendo,"
+8840,lluvia
+8841,subiendo
+8842,"arriba, mejorando,"
+8843,caídas
+8844,"abajo,"
+8845,"blando,"
+8846,Clímax
+8847,Decepcionante
+8848,Bien suntuario
+8849,Escala
+8850,"mercado bajo,"
+8851,intransitivo
+8852,traducible
+8853,intraducible
+8854,"ungulados, ungulados, pezuñas, pezuñas,"
+8855,de pezuña sólida
+8856,"unguiculado, unguiculado,"
+8857,como garra
+8858,hacia arriba
+8859,hacia abajo
+8860,establecer
+8861,débil
+8862,mal utilizado?
+8863,cuando se abusa de ella.
+8864,"victimizado, victimizado, usado, engañado, mal usado, explotado,"
+8865,"reutilizable, reciclable, recuperable,"
+8866,se le puede dar servicio
+8867,utilitario
+8868,aprovechable
+8869,inútil
+8870,"inútil, inútil, ineficaz, inútil,"
+8871,inutil
+8872,"inutilizable, inutilizable, inservible,"
+8873,Utopía
+8874,"ventoso, visionario, laputano, poco práctico, aireado,"
+8875,Distopía
+8876,válido
+8877,.
+8878,"sano, legal, eficaz,"
+8879,validado
+8880,nevalid
+8881,"incobrable, malo,"
+8882,"erróneo, falaz,"
+8883,falso
+8884,"anulado, invalidado,"
+8885,"nulo, nulo,"
+8886,"sofista, sofista,"
+8887,blue-chip
+8888,"invaluable, invaluable,"
+8889,precioso
+8890,rico
+8891,sin valor
+8892,"de pinzón,"
+8893,"lo siento, no es bueno, no cuenta, no cuenta, no tiene mérito, no sirve para nada, no sirve para nada,"
+8894,manky
+8895,"insignificante, insignificante, insignificante,"
+8896,"ineficaz,"
+8897,"desperdiciado, superfluo, sin sentido, sin propósito, sin sentido, inútil,"
+8898,"basura, basura,"
+8899,"de poca monta,"
+8900,sin valor
+8901,variable
+8902,covariante
+8903,cambio de marcha
+8904,variación
+8905,Versátil
+8906,"invariable,"
+8907,"invariable, invariante, constante, inmutable,"
+8908,"estricto, duro y rápido,"
+8909,invariable.
+8910,variado
+8911,"multifacético, variado, multifacético,"
+8912,"variable, variable,"
+8913,"versátil, variado,"
+8914,"invariable, invariable,"
+8915,revelado
+8916,"aireado, aireado,"
+8917,"De rejilla,"
+8918,sin ventilación
+8919,"sin aire, congestionado, cerca, sin aire,"
+8920,"viciado,"
+8921,"no oxigenado, no aireado,"
+8922,sin ventilación
+8923,"invertebrado, sin espinas,"
+8924,"violable,"
+8925,"inviolable,"
+8926,"intocable, inexpugnable,"
+8927,violento
+8928,convulsivo
+8929,"salvaje, furioso, feroz, feroz,"
+8930,"furioso, caliente,"
+8931,"knockdown-dragout, knock-down-and-drag-out,"
+8932,ataduras (físicas)
+8933,pavoroso
+8934,"furioso,"
+8935,"rudo, rufián,"
+8936,"golpe,"
+8937,No violento
+8938,"pacífico, pasivo,"
+8939,virtuoso
+8940,Impecable.
+8941,"sin pecado, inocente, impecable,"
+8942,mecha
+8943,"vicioso, malvado,"
+8944,"atroz, abominable,"
+8945,"impío, pecador, inicuo,"
+8946,"irreformable, irredimible, irredimible, irrecuperable,"
+8947,"villano, nefasto,"
+8948,"peccant, pecable,"
+8949,"visible, visible,"
+8950,"visual, ocular,"
+8951,Visualizable
+8952,"invisible, invisible,"
+8953,"fuera de la vista, oculto, oculto,"
+8954,sin luz
+8955,"no visual,"
+8956,escondido
+8957,Indetectable
+8958,"unseeyn,"
+8959,"vivíparos, con vida,"
+8960,Incubación
+8961,"no volatilizable, no volatilizable, no volátil,"
+8962,"voluntad,"
+8963,Libre albedrío
+8964,Autoimpuesto
+8965,"dispuesto, no forzado, sin coacción,"
+8966,"voluntario, no remunerado,"
+8967,"involuntario, involuntario, involuntario,"
+8968,forzado
+8969,Pérdida de conciencia
+8970,"involuntario,"
+8971,reacio
+8972,"reflexiva, reflex, automática,"
+8973,vegetativo
+8974,vulnerable
+8975,"indefenso, indefendible, abierto, asaltable,"
+8976,Transigente
+8977,"indefenso, indefenso,"
+8978,en peligro
+8979,indefendible
+8980,"inseguro, inseguro,"
+8981,"penetrable,"
+8982,"lo amenazó,"
