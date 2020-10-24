@@ -1161,6 +1161,7 @@ piteado;2
 mal;2
 huevada;2
 turro ese trip;2
+no me llego;2
 ya posi;2
 pésimo;2
 carajo;2
@@ -1349,6 +1350,7 @@ son vaina.;2
 tontera;2
 pésimo;2
 queja;2
+quejar;2
 maldicion;2
 mala;2
 mal;2
@@ -1737,6 +1739,7 @@ terrible;1
 esto detestable;1
 de a bolsa;1
 esptupidez;1
+nada informan;1
 porqueria;1
 de lo ultimo;1
 huevada;1
@@ -1751,10 +1754,20 @@ pendejada;1
 mierda;1
 vale trosos;1
 vale reverga;1
+no son claros;1
+no fue rápida;1
+no fue rapida;1
+no obtuve respuesta;1
+no dieron respuesta;1
+tuve que llamar;2
+no obtuve;1
+cortó llamada;1
+me decepcionó;1
+decepcionó ;1
 mierda;1
 porqueria;1
 pésima;1
-pésimo;1
+pésimo;1 
 vale emelec;1
 como la verga;1
 pésimo;1
@@ -1768,10 +1781,15 @@ batracio;1
 vale pichita;1
 asco;1
 peor;1
+ascuas;1
 valer varilla;1
 vale verga;1
 escoria;1
 q hecho trozo;1
+estoy preocupada;1
+estoy preocupado;1
+preocupada;1
+preocupado;1
 malo;1
 mierda;1
 webada;1
@@ -1788,6 +1806,7 @@ porqueria;1
 pesima;1
 detestable;1
 son caca;1
+son desordenados;1
 esta mal;1
 valió;1
 horrible;1
@@ -1817,12 +1836,22 @@ malo;1
 payasada;1
 pesimo;1
 vv;1
+ya pagué;1
+ya pague;1
+no concordaba;1
+no concuerda;1
+mal enviados;1
+mal enviado;1
+toque pagar;1
+no oportuno;1
+no fue oportuno;1
 pesimo;1
 pésimo;1
 vale verga;1
 peor;1
 batracio;1
 inconforme;1
+consequencias;2
 peor;1
 verga;1
 se pasa;1
@@ -2009,6 +2038,7 @@ ricachon;2
 pobre;2
 osea;2
 cobra;2
+cobrando;2
 pichagua;2
 emperadores;2
 abogados;2
@@ -2154,6 +2184,7 @@ credibilidad;2
 moda;3
 tirano;1
 tirania;1
+ni siquiera;1
 marioneta;1
 animal;2
 pillos;1
@@ -2249,12 +2280,16 @@ oportuno;3
 eficiente;3
 rapido;3
 ágil;3
+efectiva;3
 amables;5
 momento;3
 offcorss;3
 rapida;3
 aunque;3
 buenas;3
+muy efectiva;4
+muy ágil;4
+muy agil;4
 excelente servicio;5
 buen servicio;5
 buena atención;5
@@ -2423,6 +2458,14 @@ parece mal;1
 devolución producto;1
 hacer compra;1
 mucha demora;1
+demorada;1
+muy demorada;1
+muy demorado;1
+muy tarde;1
+maleducado; 1
+maleducada; 1
+nada amables; 1
+nada amable; 1
 saldo favor;1
 dan solución;1
 cancelar pedido;1
@@ -2548,6 +2591,11 @@ tiempos espera largos;1
 no recibido respuesta;1
 pésima atención;1
 devuelto dinero;1
+respuestas genéricas;1
+nada personalizadas;1
+nada personalizados;1
+nada personalizada;1
+nada personalizado;1
 pésima atención cliente;1
 debían entregarla;2
 no disponible;2
@@ -2555,6 +2603,9 @@ producto no disponible;2
 no opcion;2
 super decepcionada;2
 no llaman;2
+no leen;2
+no han atendido;2
+no atendido;2
 criterio cambio;2
 terrible totalmente;2
 no actualizaron;2
@@ -2576,6 +2627,7 @@ no responden;1
 no recibido producto;1
 recibido producto aún;1
 no conforme;1
+corresponde;1
 falta seriedad;1
 no enviaron;1
 parece falta seriedad;1
@@ -2585,6 +2637,8 @@ dinero no bono;1
 solicito reembolso;1
 solicite nunca;1
 nunca solicite;1
+no entendí;1
+no entendi;1
 solicité nunca;1
 nunca solicité1
 devolución productos;1
@@ -2593,3 +2647,35 @@ no respuesta;1
 no veo;2
 veo inconveniente;1
 no cumplen;1
+no dijeron nada;2
+producto no era;2
+no contestaron;2
+no contestaros tiempo;2
+equivocadas;2
+equivocados;2
+equivocada;2
+equivocado;2
+equivoco;2
+equivocó;2
+falta calidad;2
+tallas equivocadas;2
+esperando garantía;1
+esperando garantia;1
+esperando pedido;1
+esperando solución;1
+esperando solucion;1
+no había producto;1
+no habia producto;1
+genera dudas;1
+no contestaron tiempo;1
+no llegado;1
+no ha llegado;1
+me ayudaron;5
+pude realizar compra;5
+muy bonitos;5
+muy bonitas;5
+muy lindos;5
+muy lindas;5
+encantada;5
+encantado;5
+muy eficaz;5
