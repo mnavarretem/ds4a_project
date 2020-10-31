@@ -15,3 +15,6 @@ Open Facebook And Extract Epk Reactions
 
 Open Facebook And Extract Polito Reactions
     Get Post Reactions  PolitoColombia
+
+Transform Data
+    Convert Json To Csv

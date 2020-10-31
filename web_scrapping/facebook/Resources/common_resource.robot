@@ -21,8 +21,12 @@ Click Element By Text
     Click Element    xpath=//*[text()='${TEXT_TO_CLICK}']
 
 Launch Browser
-    Open Browser   ${URL}   ${BROWSER}
-    Maximize Browser Window
+    ${chrome_options} =     Evaluate    sys.modules['selenium.webdriver'].ChromeOptions()    sys, selenium.webdriver
+    Call Method    ${chrome_options}   add_argument    headless
+    Call Method    ${chrome_options}   add_argument    disable-gpu
+    ${options}=     Call Method     ${chrome_options}    to_capabilities
+    Open Browser    ${URL}    browser=${BROWSER}    desired_capabilities=${options}
+    # Maximize Browser Window
 
 Login Application
     [Arguments]   ${USER_VALUE}  ${PASSWORD_VALUE}
@@ -47,7 +51,7 @@ Get Post Reactions
     ${URLS}=  Get Posts Url  ${PAGE}
     Sleep  1s
     FOR    ${URL}    IN    @{URLS}
-        #Log  ${URL}  console=yes
+        Log  ${URL}  console=yes
         Run Keyword If  "${URL[1]}"=="${None}"   Set To Dictionary  ${REACTIONS_DICT}  ${URL[0]}  ${None}
         ...  ELSE  Get Reactions  ${URL[0]}  ${URL[1]}
     END
@@ -96,3 +100,5 @@ Open Comments
     #   Click Element  ${LIKE}
     #   ${X} =  Get Text  ${comments}
     #   Log  ${X}  console=yes
+
+
