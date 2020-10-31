@@ -10,15 +10,18 @@ In Ubuntu, Mint and Debian you can install Python 3 like this:
 Pipenv can be installed using pip:
 
     $ pip install pipenv
+ 
+Installing the restant dependencies:
+
+    $ cd web_scrapping/facebook
+    $ pip install pipenv
+    $ pipenv install
 
 Quick start
 -----------
 
 Running the FB Scraper
 
-    $ cd web_scrapping/facebook
-    $ pip install pipenv
-    $ pipenv install
     $ pipenv shell
     $ robot data_extractor.robot
 
