@@ -11,7 +11,7 @@ Pipenv can be installed using pip:
 
     $ pip install pipenv
  
-Installing the restant dependencies:
+Installing the remaining dependencies
 
     $ cd web_scrapping/facebook
     $ pip install pipenv
