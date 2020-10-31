@@ -7,14 +7,12 @@ In Ubuntu, Mint and Debian you can install Python 3 like this:
 
     $ sudo apt-get install python3 python3-pip
 
-
-Quick start
------------
-
 Pipenv can be installed using pip:
 
     $ pip install pipenv
 
+Quick start
+-----------
 
 Running the FB Scraper
 
