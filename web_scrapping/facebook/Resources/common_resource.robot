@@ -56,6 +56,7 @@ Get Post Reactions
         ...  ELSE  Get Reactions  ${URL[0]}  ${URL[1]}
     END
     Write Reactions Json  ${PAGE}  ${REACTIONS_DICT}
+    Update Last Reactions  ${PAGE}
 	${REACTIONS_DICT} =  Create Dictionary
 
 Get Reactions

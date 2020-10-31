@@ -7,7 +7,8 @@ from bs4 import BeautifulSoup
 from robot.api import logger
 
 path = {"post": "data/{}_fb_posts.json",
-        "reactions": "data/{}_fb_reactions.json"
+        "reactions": "data/{}_fb_reactions.json",
+        "new_reactions": "data/{}_fb_new_reactions.json"
         }
 
 
@@ -34,6 +35,14 @@ def update_last_posts(client, n=10):
     with open(path["post"].format(client), 'w') as json_file:
         json.dump(new, json_file, default=str)
 
+def update_last_reactions(client):
+    with open(path["reactions"].format(client), 'r') as json_file:
+        old = json.load(json_file)
+    with open(path["new_reactions"].format(client), 'r') as json_file:
+        new = json.load(json_file)
+    posts = dict(old, **new)
+    with open(path["reactions"].format(client), 'w') as json_file:
+        json.dump(posts, json_file, default=str)
 
 def get_pending_reactions_ids(client):
     post_ids = set(get_posts_ids(client))
@@ -50,19 +59,17 @@ def get_posts_url(page):
     with open(file_path, 'r') as json_file:
         posts = json.load(json_file)
         for post in posts:
-            if post["post_id"] in pending_reactions_ids:
-                url = "https://www.facebook.com/{}/posts/{}".format(page, post["post_id"])
-                urls.append([post["post_id"], url])
+            if post["post_id"]:
+                if post["post_id"] in pending_reactions_ids:
+                    url = "https://www.facebook.com/{}/posts/{}".format(page, post["post_id"])
+                    urls.append([post["post_id"], url])
     # logger.console(urls)
     # print(urls)
     return urls
 
 
-print(get_posts_url("epk"))
-
-
 def write_reactions_json(page, reactions_dict):
-    file_path = path["reactions"].format(page)
+    file_path = path["new_reactions"].format(page)
     with open(file_path, 'w') as json_file:
         json.dump(reactions_dict, json_file)
 

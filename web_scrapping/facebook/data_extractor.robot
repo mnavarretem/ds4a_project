@@ -17,4 +17,6 @@ Open Facebook And Extract Polito Reactions
     Get Post Reactions  PolitoColombia
 
 Transform Data
-    Convert Json To Csv
+    Convert Json To Csv  offcorss
+    Convert Json To Csv  epk
+    Convert Json To Csv  PolitoColombia
