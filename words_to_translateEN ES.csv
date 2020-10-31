@@ -60,7 +60,7 @@ id,Translation
 58,"inaccesible, inaccesible".
 59,"remoto, interior".
 60,"no pisado, no pisado, no rastreado, sin pistas, sin camino, sin senderos".
-61,"ungetatable, un-get-at-able, un-come-at-able,"
+61,"ungetatable"
 62,"complaciente, complaciente".
 63,"complaciente, complaciente".
 64,"desobligar, no acomodar".
@@ -193,7 +193,7 @@ id,Translation
 191,"cohesivo".
 192,"gomoso, engomado".
 193,"autosellado".
-194,"stick-on".
+194,"adhesivo".
 195,"no adhesivo".
 196,"no viscoso, no pegajoso".
 197,"no resinoso, no resinoso, no resinoso, no resinoso,"
@@ -265,7 +265,7 @@ id,Translation
 263,"golpe de escenario".
 264,"sujeto".
 265,"tomado".
-266,"Wonder-struck".
+266,"maravillado".
 267,"no afectado".
 268,"inmune".
 269,"superior".
@@ -584,7 +584,7 @@ id,Translation
 582,"desatascado".
 583,"acoplable".
 584,"bondable, bindable,"
-585,"clip-on".
+585,"ajustable".
 586,"desmontable".
 587,"clásico".
 588,"cauteloso".
@@ -791,7 +791,7 @@ id,Translation
 789,"encantador".
 790,"pintoresco".
 791,"bonita".
-792,"bonita-bonita".
+792,"bonita".
 793,"pulchritudinous".
 794,"encantador".
 795,"escénico".
@@ -861,7 +861,7 @@ id,Translation
 859,"calvo".
 860,"destacado".
 861,"cara larga".
-862,"pug-faced".
+862,"cara de pug".
 863,"cara triste".
 864,"cara dulce".
 865,"sin rostro".
@@ -918,7 +918,7 @@ id,Translation
 916,"sin consolidar".
 917,"Sordera".
 918,"con bordes aserrados".
-919,"spiny-edged".
+919,"cortante".
 920,"non-u".
 921,"materialista, conservador, burgués".
 922,"calidad".
@@ -1040,7 +1040,7 @@ id,Translation
 1038,"de huesos fuertes".
 1039,"deshuesado".
 1040,"desabrochado, desabrochado,"
-1041,"open-collared,"
+1041,"cuello blanco,"
 1042,"capitalista, capitalista".
 1043,"cacofónico, cacofónico".
 1044,"áspero, áspero, rasposo, raspado, con grava, rallado,"
@@ -1100,7 +1100,7 @@ id,Translation
 1098,"a mano, a mano".
 1099,"zoofágico, carnívoro, carnívoro".
 1100,"omnívoro".
-1101,"all-devouring,"
+1101,"omnívoro,"
 1102,"alfombrado".
 1103,"sin alfombra".
 1104,"esculpido, esculpido, tallado,"
@@ -1110,11 +1110,11 @@ id,Translation
 1108,"sin censura".
 1109,"sin diluir".
 1110,"como la cola, caudal".
-1111,"square-tailed,"
+1111,"de cola cuadrada,"
 1112,"acaudado, acaudalado,"
 1113,"sin cola, anual".
-1114,"leafy-stemmed,"
-1115,"spiny-stemmed,"
+1114,"tallo frondoso,"
+1115,"tallo espinoso,"
 1116,"sin tallo, acaulescente".
 1117,"causal".
 1118,"abortivo".
@@ -1138,7 +1138,7 @@ id,Translation
 1136,"incauto".
 1137,"desgarrador, loco, impulsivo, impetuoso, exaltado, descerebrado,"
 1138,"como una célula".
-1139,"lymphoblast-like,"
+1139,"tipo linfoblastos,"
 1140,"no celular, acelular".
 1141,"sin células".
 1142,"coherente".
@@ -1277,8 +1277,8 @@ id,Translation
 1275,"lila azulada, lila azulada,"
 1276,"rosado, ruborizado".
 1277,"rojo coral".
-1278,"crimson-magenta,"
-1279,"crimson-purple,"
+1278,"carmesí-magenta,"
+1279,"carmesí-púrpura,"
 1280,"púrpura apagado".
 1281,"verde dorado".
 1282,"gris-rosado, gris-rosado, gris-rosado, gris-rosado,"
@@ -1308,7 +1308,7 @@ id,Translation
 1306,"hueless".
 1307,"gris plateado, gris plateado, gris plateado, gris plateado".
 1308,"pizarra-negro".
-1309,"white-flowered,"
+1309,"blaco florecido,"
 1310,"blanquecino, blanquecino".
 1311,"negro".
 1312,"blanco".
@@ -3465,7 +3465,7 @@ id,Translation
 3463,"marchita, marchita, marchita, marchita, marchita, marchita".
 3464,"esbelto, delgado, ligero, delgado".
 3465,"recortar, recortar".
-3466,"huso - zancas, huso - patas".
+3466,"zancas, patas".
 3467,"enjuto, fibroso".
 3468,"wispy, wisplike,"
 3469,"gordito, gordito".
@@ -4356,7 +4356,7 @@ id,Translation
 4354,"semi-escalada,"
 4355,semierecta
 4356,"semi-erguido,"
-4357,STAND - UP (producto)
+4357,levantarse
 4358,no erecto
 4359,"yacente, decumbente, accumbente,"
 4360,posición corporal no reclinada
@@ -4401,7 +4401,7 @@ id,Translation
 4399,frigorífico
 4400,"frore,"
 4401,"rimy, bordeado, helado,"
-4402,helado - sensación
+4402,congelado
 4403,"refrigerante, refrigerante,"
 4404,Destemplado
 4405,Piedra Helada
@@ -4655,7 +4655,7 @@ id,Translation
 4653,"culpable de derramamiento de sangre,"
 4654,"procesable, imputable,"
 4655,"enamorado de la conciencia,"
-4656,- De carácter penal
+4656, penal
 4657,delincuente
 4658,"multable, multable,"
 4659,"lleno de culpa,"
@@ -6310,7 +6310,7 @@ id,Translation
 6308,damasquinado
 6309,"exuberante, elaborado,"
 6310,"imaginario,"
-6311,- fantastic
+6311,fantástico
 6312,"encaje, como un cordón,"
 6313,"inflado, soplo,"
 6314,Rococó
@@ -8982,3 +8982,534 @@ id,Translation
 8980,"inseguro, inseguro,"
 8981,"penetrable,"
 8982,"lo amenazó,"
+8983,"bajo fuego, bajo ataque,"
+8984,indefenso
+8985,Vulnerable
+8986,"hermético, hermético al aire,"
+8987,"a prueba de bombas, a prueba de bombas,"
+8988,"defendible, defendible,"
+8989,"inatacable, inexpugnable, fuerte, seguro, inviolable, inexpugnable,"
+8990,Apretado
+8991,Protegidas
+8992,oprimido
+8993,se busca
+8994,"deseado, anhelado,"
+8995,chaud
+8996,"anhelado, deseado, anhelado,"
+8997,"buscado, buscado,"
+8998,No deseado
+8999,abdicable
+9000,"paria, sin casta,"
+9001,"fuera de lugar,"
+9002,no reclamado
+9003,"no buscado, no deseado,"
+9004,"no deseado, no deseado, no deseado,"
+9005,cálido
+9006,"tibio, tibio,"
+9007,calentado
+9008,frío
+9009,programa de llamada
+9010,cálido
+9011,jarabe de fruta
+9012,Abundante
+9013,frío
+9014,sin respuesta
+9015,frío
+9016,Sangre fría
+9017,afectuoso
+9018,"corazón frío,"
+9019,curso frágil
+9020,lavable
+9021,"lavado y uso, secado por goteo,"
+9022,"no lavable,"
+9023,Encerado
+9024,sin cera
+9025,"acelerador, acelerador,"
+9026,acrecionario
+9027,acumulativo
+9028,"maximizando, maximizando,"
+9029,Con ajuste multiplicativo
+9030,"maximización de beneficios, maximización de beneficios,"
+9031,levantamiento
+9032,disminuyendo
+9033,"depreciativo, depreciativo, depreciativo,"
+9034,"detractor,"
+9035,disminuido
+9036,caídas
+9037,"allargando,"
+9038,inflacionario
+9039,Deflación
+9040,lactante
+9041,dispositivo de vestir
+9042,inservible
+9043,invadido por las malas hierbas
+9044,deshierbe
+9045,"Bienvenido,"
+9046,mal acogido
+9047,Uninvited
+9048,"bueno,"
+9049,"asintomático, asintomático,"
+9050,"recuperado, curado, curado,"
+9051,enfermo
+9052,"herido, afligido,"
+9053,angustia
+9054,"malestar, mal tiempo, enfermizo, cutre, mal, puntiagudo, indispuesto, enfermo,"
+9055,"mareado, mareado, mareado, mareado,"
+9056,Autismo Infantil
+9057,"enfermo en cama, postrado en cama, postrado en cama, postrado en cama,"
+9058,"librea, hígado, bilioso,"
+9059,"bronquítico,"
+9060,tísico
+9061,"en recuperación, convaleciente,"
+9062,"alucinante, delirante,"
+9063,diabético
+9064,"mareado, vertiginoso, mareado, mareado,"
+9065,Dispepsia
+9066,"desmayo, aturdimiento, aturdimiento, ligero, débil,"
+9067,"febril, febril,"
+9068,divertido
+9069,"gotoso,"
+9070,verde
+9071,Establecidas
+9072,"enfermizo, enfermo, mareado, con náuseas, náuseas,"
+9073,PARALISIS
+9074,"paralizado, paralítico,"
+9075,parapléjico
+9076,"desvencijado, raquítico,"
+9077,Escrófula
+9078,Mocoso
+9079,espástico
+9080,"tuberculoso, tuberculoso,"
+9081,sin curar
+9082,apretar permanentemente
+9083,"húmedo, húmedo,"
+9084,"empapado, empapado,"
+9085,húmedo
+9086,"pegajoso, humeante, bochornoso,"
+9087,enlodado
+9088,"lluvioso, lluvioso,"
+9089,pegajoso
+9090,Lavado
+9091,seco
+9092,"Al sol, chamuscado, reseco, horneado, adust,"
+9093,secado al aire
+9094,seco al aire
+9095,"seco, árido,"
+9096,"completamente seco, completamente seco,"
+9097,"seco, desecado,"
+9098,secadas;
+9099,"sin lluvia,"
+9100,semiseco
+9101,sediento
+9102,"mojado, lactante,"
+9103,seco
+9104,seco
+9105,sobre ruedas
+9106,sin ruedas
+9107,manual
+9108,sano
+9109,"Nutritivo, nutritivo, nutritivo, nutritivo, alimentario, alimentario,"
+9110,¿SALUDABLE PARA EL CORAZÓN?
+9111,"saludable, saludable, bueno para ti,"
+9112,"sustancial, cuadrado, sólido, satisfactorio, abundante,"
+9113,orgánico
+9114,salubre
+9115,malsano
+9116,"insalubre, insalubre, insalubre,"
+9117,"mezquino, insustancial,"
+9118,mórbido
+9119,"vil, repugnante, mareado, ofensivo, repugnante, nauseabundo, nauseabundo, repugnante,"
+9120,"ancho, amplio,"
+9121,radiante
+9122,"de ala ancha,"
+9123,como un abanico
+9124,estrecho
+9125,"estrechamiento, constricción, constricción,"
+9126,angosto
+9127,microhyla
+9128,"delgado, delgado,"
+9129,estrecho
+9130,"afilado, afilado, estrechamiento,"
+9131,ancho
+9132,es cómodo
+9133,estrecho
+9134,"marginal, desnudo,"
+9135,"manejable,"
+9136,"inmanejable, inmanejable,"
+9137,"torpe, torpe, torpe, torpe,"
+9138,"engorroso, engorroso,"
+9139,peluca
+9140,sin peluca
+9141,dispuesto (hallazgo)
+9142,Consentimiento
+9143,"preparado, inclinado, dispuesto, dispuesto,"
+9144,"feliz, contento,"
+9145,listo
+9146,estar dispuesto y ser capaz
+9147,reacio
+9148,"reacio, loth, repugnante,"
+9149,"involuntario, involuntario,"
+9150,"en forma de ala, aliforme, alary, alar,"
+9151,de alas delgadas
+9152,"sin alas,"
+9153,"aptero, apteral,"
+9154,no volador
+9155,"sabio,"
+9156,"omnisciente, omnisciente,"
+9157,"sapiente, sagaz, perspicaz,"
+9158,"de búho,"
+9159,"sapiencial,"
+9160,salvia
+9161,tonto
+9162,"ridículo, ridículo, disparatado, ridículo, ridículo, idiota, irrisorio, loco, absurdo,"
+9163,"vacío, insensato, estúpido, fatuo, estúpido,"
+9164,"chiflado, chiflado, chiflado, tonto, cursi, tonto, chiflado, chiflado,"
+9165,enamorado
+9166,"loco, loco, descabellado,"
+9167,"equivocado, mal concebido,"
+9168,"espantoso, despistado, rattlepated, rattlebrained,"
+9169,imprudente
+9170,"enselvado,"
+9171,"cepillado, bosky,"
+9172,"brambly, braky,"
+9173,Bosque
+9174,velo doble
+9175,"juncoso,"
+9176,"desaliñado, escarpado,"
+9177,"formando matorrales,"
+9178,"entramado,"
+9179,"sin arbolado, sin árboles,"
+9180,sin bosques
+9181,no leñoso
+9182,herbáceo
+9183,"blando, pulposo,"
+9184,material inconsciente;
+9185,"mundano, mercenario, materialista,"
+9186,"terrestre, mundano,"
+9187,no mundano
+9188,"ermitaño, ermitaño, ermitaño, ermitaño, anacoreta,"
+9189,"sobrenatural, espiritual,"
+9190,no mercenario
+9191,Trenzada
+9192,sin tejer
+9193,tornillo sinfin
+9194,atrito
+9195,abollado
+9196,"aplaudido,"
+9197,"Apesadumbrado, deteriorado, mordido por pulgas, abandonado, decrépito, chirriante,"
+9198,orejas de perro
+9199,Raído
+9200,"sarnoso, sarnoso,"
+9201,"polilla, apolillada,"
+9202,harapiento
+9203,"desgastado, raddled,"
+9204,"cutre, cutre, andrajoso, apolillado,"
+9205,"cutre, desaliñado,"
+9206,"andrajoso, andrajoso,"
+9207,"pulgar,"
+9208,"gusanos, carcomidos, vermiculados,"
+9209,"desgastado por la intemperie, curtido por la intemperie,"
+9210,bien gastado
+9211,Nuevo
+9212,sin meteorizar
+9213,digno
+9214,"loable, loable, loable, loable,"
+9215,loable
+9216,CUM LAUDE
+9217,vale la pena merecer
+9218,"modelo, ejemplar,"
+9219,Magna cum Laude
+9220,"meritorio, meritorio,"
+9221,"digno de mención, notable,"
+9222,"citable,"
+9223,Sagradas
+9224,Summa cum laude
+9225,"valorado, precioso,"
+9226,"digno, valioso,"
+9227,que vale la pena
+9228,indigno
+9229,"indigno, indigno,"
+9230,inmerecido
+9231,"sin mérito,"
+9232,xerico
+9233,hídrico
+9234,"higrofítico,"
+9235,mésico
+9236,"mesofítico,"
+9237,Azonales
+9238,"azónico,"
+9239,sin telarañas
+9240,"reentrante, reentrante,"
+9241,Anticuerpos anti Rh negativos
+9242,categoremático
+9243,"sincategoremático,"
+9244,Pro Vida
+9245,"no bautizado, no bautizado,"
+9246,"benigno,"
+9247,"malignos,"
+9248,"no invertible,"
+9249,inmunocompetente
+9250,Inmunodeficiencia
+9251,de espuela larga
+9252,legumbres de vaina mondadas
+9253,de cubierta dura
+9254,"sin cáscara, sin cáscara,"
+9255,mandíbula cuadrada
+9256,piel suave
+9257,cernido
+9258,"sin flores, sin flores,"
+9259,"portador de esporas,"
+9260,"abático, abásico,"
+9261,abiente
+9262,aclorhídrico
+9263,acidótico
+9264,Erupción acneiforme
+9265,"actinomicótico,"
+9266,"aculeated, aculeate,"
+9267,"adactylous,"
+9268,anteridial
+9269,"alexifármaco,"
+9270,Agentes Antivirales
+9271,"agonal,"
+9272,"agranulocítico,"
+9273,"alabastrina, alabastro,"
+9274,"albinótico, albinista, albínico, albinal,"
+9275,algoide
+9276,"algolagnico,"
+9277,alcalótico
+9278,Alantoides
+9279,Alérgica
+9280,alométrico
+9281,"alotropical, alotrópico,"
+9282,"amalgamativo,"
+9283,"amaurótico,"
+9284,"ameboide, ameboide,"
+9285,"de amatista,"
+9286,"amniótico, amniótico, amnico,"
+9287,amorista
+9288,"amigdalina,"
+9289,"anaclítico,"
+9290,"anagógico, anagógico,"
+9291,Anarquismo
+9292,"anasarcous,"
+9293,"anencefálico, anencefálico,"
+9294,"anginoso, anginosa, anginoso,"
+9295,anglófilo
+9296,anglofóbico
+9297,"serpentino,"
+9298,anictérico
+9299,"anisometrópico,"
+9300,"anoxémico,"
+9301,anóxico
+9302,Anserina
+9303,"antitumoral, antitumoral, antineoplásico, anticancerígeno,"
+9304,"anúrico, anurético,"
+9305,ansiolítico
+9306,Afaquia
+9307,Afasia
+9308,Apocalíptico
+9309,"apoplectoide, apoplectiforme,"
+9310,"apotegmático, apotegmático,"
+9311,Apalaches
+9312,"arcaizante,"
+9313,"arcángel, arcangélico,"
+9314,"archiducal,"
+9315,"archiepiscopal, archepiscopal,"
+9316,ascensional
+9317,"asteró,"
+9318,"estolonífero,"
+9319,"astomatal,"
+9320,programa registrado
+9321,asinérgico
+9322,"atáxico, atáctico,"
+9323,Atonía
+9324,auditivo
+9325,"autárquico, autárquico, autárquico,"
+9326,heterótrofo
+9327,Avunculado
+9328,Galardonado
+9329,babuino
+9330,"baya, baccate,"
+9331,"bacteriolítico,"
+9332,bacteriostático
+9333,"bacteroide, bacteroide, bacterioide, bacterioide,"
+9334,Ballet
+9335,basidial
+9336,"basidiosporoso,"
+9337,"bauxítico,"
+9338,"conductista, conductista, conductista, conductista,"
+9339,"benedictiva, benedictiva,"
+9340,afianzado
+9341,benévolo
+9342,"bibliomaníaco,"
+9343,bicromatado
+9344,Boratos
+9345,braquioso
+9346,bracteal
+9347,"bracted, bracteate,"
+9348,sin borde
+9349,"brobdingnagian,"
+9350,Bulimia
+9351,como una rebaba
+9352,"butiráceo,"
+9353,butírico
+9354,"cacodemonic, cacodaemonic,"
+9355,mojones
+9356,"calcáreo, calcáreo,"
+9357,calcico
+9358,calicó
+9359,capsular
+9360,carbocíclico
+9361,carbolatado
+9362,"carcinógenas,"
+9363,carposporoso
+9364,"carúnculo, caruncular,"
+9365,"catabólico, catabólico,"
+9366,"catachrestical, catachrestic,"
+9367,catkinate
+9368,"chaffy, como paja,"
+9369,"ferruginoso,"
+9370,benéficos
+9371,quelato
+9372,"quelado, quelado,"
+9373,alegre
+9374,Maternidad
+9375,alegre
+9376,Quitina
+9377,Wilsonianismo
+9378,cloze
+9379,coccal
+9380,Funciona con monedas
+9381,Collar
+9382,colegiado
+9383,"configuracional,"
+9384,Consonante
+9385,constitucional
+9386,inalámbrico/sin hilos
+9387,"cormos, cormose,"
+9388,Panícula
+9389,Enlace covalente
+9390,croupy
+9391,crustáceo
+9392,criogénico
+9393,"ctenoide, en forma de peine,"
+9394,"como una natilla,"
+9395,cíclico
+9396,a entregar en la Oficina Central RACE
+9397,"despótico, despótico,"
+9398,"diagonalizable,"
+9399,"sudorífico, diaforético,"
+9400,Charles Dickens
+9401,modo
+9402,numérico
+9403,"dimorfo, dimórfico,"
+9404,Omnidireccional
+9405,direccional
+9406,Ditirambo
+9407,DUMPY
+9408,"disgénico, cacogénico,"
+9409,eugenésico
+9410,ectópico (calificador)
+9411,Fuerza electromotriz
+9412,"elegíaco,"
+9413,Elementales
+9414,"emulador,"
+9415,epilítico
+9416,equinos
+9417,"eruptivo,"
+9418,eritematoso
+9419,"saliente,"
+9420,Existencialismo
+9421,"fermentable,"
+9422,"febril, febril,"
+9423,fibrilosa
+9424,fibrinoso
+9425,No ficción
+9426,Filaria
+9427,"escamoso, escamoso,"
+9428,"de pedernal,"
+9429,florido
+9430,"foliado, foliado,"
+9431,"forcipate,"
+9432,"formalizado, formalista, formalizado,"
+9433,Formularios Farmacéuticos como Asunto
+9434,cuatro manos
+9435,preocupado
+9436,desanimado
+9437,Fricción
+9438,olor a ajo
+9439,"gemífero,"
+9440,granulífero
+9441,granulomatoso
+9442,Myoxocephalus aenaeus
+9443,"camisa de pelo, camisa de pelo,"
+9444,no armónico
+9445,como un brezo
+9446,Espora
+9447,Autorregulación
+9448,Espora
+9449,"hircine,"
+9450,"humanista, humanista,"
+9451,hidrocefálico
+9452,"hidrolizable,"
+9453,agnogénico
+9454,Huésped Inmunocomprometido
+9455,inmunodeprimido
+9456,metric
+9457,metric
+9458,incestuoso
+9459,inductivo
+9460,Información
+9461,"no polar, no iónico,"
+9462,hecho un flan
+9463,lactogénico
+9464,jabonoso
+9465,Leguminosas
+9466,"limacoide, limacina,"
+9467,sala de estar
+9468,Loopy
+9469,como un pulmón
+9470,"presocrático, presocrático,"
+9471,"postdiluviano,"
+9472,omisivo
+9473,"miótico, miótico,"
+9474,"ratonil, ratonil,"
+9475,"mielinizado, medulado,"
+9476,"amielínico,"
+9477,"narcoléptico,"
+9478,"neoteno, neoténico,"
+9479,"tejido de orbes,"
+9480,Empaquetable
+9481,paranasal
+9482,paroxístico
+9483,"no passerina,"
+9484,operaciones de mantenimiento
+9485,turboso
+9486,petaloide
+9487,Fagocitosis
+9488,"no fotosintético,"
+9489,"pictográfico,"
+9490,"resistente a la penicilina,"
+9491,pleomórfico
+9492,políticamente correcto
+9493,Políticamente incorrecto
+9494,"pomposo, ceremonioso,"
+9495,"posicionable,"
+9496,"presintomático, preclínico,"
+9497,precanceroso
+9498,Vasoconstricción
+9499,"prodrómico, prodrómico,"
+9500,"propagativo,"
+9501,pútrido
+9502,rabioso
+9503,"andrajoso,"
+9504,"refractivo, refractario,"
+9505,"parecido a la resina,"
+9506,"viscosa, nerviosa,"
+9507,monogastrico
+9508,ruritano
+9509,escaleno
+9510,Caspa
+9511,"autoinducido,"
+9512,Túbulos seminíferos
+
