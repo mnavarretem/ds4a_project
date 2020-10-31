@@ -17,6 +17,7 @@ allure-robotframework = "*"
 requests = "*"
 robotframework-dependencylibrary = "*"
 beautifulsoup4 = "*"
+pandas = "*"
 
 
 [requires]

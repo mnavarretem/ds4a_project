@@ -1,28 +1,84 @@
 import json
 import re
 
+import pandas as pd
+import scraper as sc
 from bs4 import BeautifulSoup
 from robot.api import logger
 
+path = {"post": "data/{}_fb_posts.json",
+        "reactions": "data/{}_fb_reactions.json",
+        "new_reactions": "data/{}_fb_new_reactions.json"
+        }
+
+
+def get_posts_ids(client):
+    with open(path["post"].format(client)) as file:
+        data = json.load(file)
+        ids = [post['post_id'] for post in data]
+    return ids
+
+
+def get_reactions_ids(client):
+    with open(path["reactions"].format(client)) as file:
+        data = json.load(file)
+        ids = [id for id in data]
+    return ids
+
+
+def update_last_posts(client, n=10):
+    ids = get_posts_ids(client)
+    posts = [post for post in sc.get_posts(client, pages=n) if not post['post_id'] in ids]
+    with open(path["post"].format(client), 'r') as json_file:
+        old = json.load(json_file)
+        new = posts + old
+    with open(path["post"].format(client), 'w') as json_file:
+        json.dump(new, json_file, default=str)
+
+def update_last_reactions(client):
+    with open(path["reactions"].format(client), 'r') as json_file:
+        old = json.load(json_file)
+    with open(path["new_reactions"].format(client), 'r') as json_file:
+        new = json.load(json_file)
+    posts = dict(old, **new)
+    with open(path["reactions"].format(client), 'w') as json_file:
+        json.dump(posts, json_file, default=str)
+
+def get_pending_reactions_ids(client):
+    post_ids = set(get_posts_ids(client))
+    react_ids = set(get_reactions_ids(client))
+    pending_reactions_ids = post_ids.difference(react_ids)
+    return pending_reactions_ids
+
 
 def get_posts_url(page):
-    file_path = "data/{}_fb_posts.json".format(page)
+    file_path = path["post"].format(page)
+    update_last_posts(page, 10)
+    pending_reactions_ids = get_pending_reactions_ids(page)
+    urls = []
     with open(file_path, 'r') as json_file:
         posts = json.load(json_file)
-        urls = [(post["post_id"], post["post_url"]) for post in posts]
-        #logger.console(urls)
-        #print(urls)
+        for post in posts:
+            if post["post_id"]:
+                if post["post_id"] in pending_reactions_ids:
+                    url = "https://www.facebook.com/{}/posts/{}".format(page, post["post_id"])
+                    urls.append([post["post_id"], url])
+    # logger.console(urls)
+    # print(urls)
     return urls
 
+
 def write_reactions_json(page, reactions_dict):
-    file_path = "data/{}_fb_reactions.json".format(page)
+    file_path = path["new_reactions"].format(page)
     with open(file_path, 'w') as json_file:
         json.dump(reactions_dict, json_file)
+
 
 def get_comments(html_source):
     soup = BeautifulSoup(html_source, 'html.parser')
     # logger.console(soup)
     logger.console(extract_comments(soup))
+
 
 def extract_comments(item):
     # logger.console(item)
@@ -108,9 +164,21 @@ def extract_reaction(html):
         reaction_match = re.search(reaction_pattern, html)
         if reaction_match:
             number_match = reaction_match.group().split()[-1].strip()
-            reactions_dict[reaction] = number_match
+            if "mil" in number_match:
+                number_match = float(number_match.split("&")[0]) * 1000
+            reactions_dict[reaction] = int(number_match)
         else:
             reactions_dict[reaction] = None
     # logger.console(reactions_dict)
     return reactions_dict
 
+
+def convert_json_to_csv(page):
+    post_path = path["post"].format(page)
+    react_path = path["reactions"].format(page)
+    df_posts = pd.read_json(post_path)
+    # Avoid converting postid numbers as epoch date and transpose data
+    df_react = pd.read_json(react_path, convert_axes=False).transpose()
+    df_react = df_react.reset_index().rename(columns={'index': 'post_id'})
+    df_posts.to_csv("data/csv/{}_fb_posts.csv".format(page), index=None)
+    df_react.to_csv("data/csv/{}_fb_reactions.csv".format(page), index=None)
