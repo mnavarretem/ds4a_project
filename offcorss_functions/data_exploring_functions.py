@@ -72,17 +72,3 @@ def get_top_n_words(corpus, n=1,k=1):
     words_freq = [(word, sum_words[0, idx]) for word, idx in vec.vocabulary_.items()]
     words_freq =sorted(words_freq, key = lambda x: x[1], reverse=True)
     return words_freq[:n]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
