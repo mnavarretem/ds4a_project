@@ -1,0 +1,8 @@
+pandas
+tweet-preprocessor
+unidecode
+nltk
+sklearn
+sqlalchemy
+statsmodels
+psycopg2-binary

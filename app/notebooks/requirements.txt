@@ -1,0 +1,9 @@
+pandas
+nltk
+matplotlib
+wordcloud
+plotly
+autocorrect 
+scikit-learn
+scipy
+autocorrect 
